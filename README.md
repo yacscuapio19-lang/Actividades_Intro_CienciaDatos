@@ -1,2 +1,2 @@
-# ProyectoFinal
-Proyecto final para clase de Introducción a la Ciencia de Datos
+# Actividades TecnoloChicas 
+ACtividades de Introducción a la Ciencia de Datos Mit AppInventor
